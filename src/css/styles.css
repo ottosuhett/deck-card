@@ -1,0 +1,24 @@
+html{
+    background-color:#00AFC1;
+}
+h1{
+    color: #FFD124;
+}
+#draw-a-card {
+    background-color:#FFD124;
+    border-radius: 12%;
+    color:#006778;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+#draw-a-card:hover{
+    background-color: #006778;
+    color:white;
+    opacity: 0.5;
+}
+.container{ 
+    max-width: 1440px;
+    text-align: center;
+}
